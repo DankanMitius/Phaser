@@ -28,7 +28,7 @@ You can run the game by opening the project in Unity.
 
 + Use teleport ability to overcome obstacles.
 + Avoid mechanical spiders.
-+ Drones can knock you of.
++ Drones can knock you off.
 
 Good luck and enjoy!
 
