@@ -18,6 +18,20 @@ git clone https://github.com/DankanMitius/Phaser.git
 
 You can run the game by opening the project in Unity.
 
+## Credits
+
++ Props and assets: https://assetstore.unity.com/
++ Character model and animations: https://www.mixamo.com/
++ Game Engine: Unity
+
+## Tips & Tricks
+
++ Use teleport ability to overcome obstacles.
++ Avoid mechanical spiders.
++ Drones can knock you of.
+
+Good luck and enjoy!
+
 ## Screenshots
 ![](Screenshots/2f89ced173b9fbf90f5bede29175ff7f.jpg)
 ![](Screenshots/a722bff4576e72e1abbca71b06fd1646.jpg)
