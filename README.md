@@ -12,7 +12,9 @@ Make sure you have the below requirements before starting:
 ## Installation
 
 + Clone the repository locally:
+```
 git clone https://github.com/DankanMitius/Phaser.git
+```
 
 You can run the game by opening the project in Unity.
 
