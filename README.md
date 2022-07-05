@@ -35,6 +35,5 @@ Good luck and enjoy!
 ## Screenshots
 ![](Screenshots/2f89ced173b9fbf90f5bede29175ff7f.jpg)
 ![](Screenshots/a722bff4576e72e1abbca71b06fd1646.jpg)
-![](Screenshots/d2f5eeac2aa8b6b0765c7c5dec6c04c4.jpg)
 ![](Screenshots/f86f391cef5c4556a5327e34010e8b12.jpg)
 ![](Screenshots/gif1.gif)
